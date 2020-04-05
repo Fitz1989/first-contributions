@@ -24,7 +24,6 @@
 - {Shrusty Singh}
 - Blah Blah
 - Blah Blah 3
-- Blah Blah 4
 - [Khalid Shaikh] (https://github.com/mkhalid-s)
 - [Kevin Izuchukwu] (https://github.com/Kevinand11)
 - [Chakib Atmane] (https://github.com/chak-eeb)
